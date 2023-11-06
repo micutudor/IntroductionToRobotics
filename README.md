@@ -20,3 +20,20 @@ I've used a separate potentiometer to control each color of the RGB LED, which i
 #### Video
 
 https://youtu.be/KLxVdaO7HfU
+
+## Homework #3
+
+#### Task
+This assignment involves simulating a 3-floor elevator control system using
+LEDs, buttons, and a buzzer with Arduino. At the end of this task, I've gained
+experience in using button state change, implementing debouncing techniques,
+and coordinating multiple components to represent real-world scenarios
+
+#### Screenshots
+
+![App Screenshot](https://i.imgur.com/WjgczSy.jpg)
+![App Screenshot](https://i.imgur.com/P862eM6.jpg)
+
+#### Video
+
+https://www.youtube.com/shorts/JoF1Wdhzy04
