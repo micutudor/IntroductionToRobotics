@@ -37,3 +37,19 @@ and coordinating multiple components to represent real-world scenarios
 #### Video
 
 https://www.youtube.com/shorts/JoF1Wdhzy04
+
+## Homework #4
+
+#### Task
+I've used the joystick to control the position of
+the segment and ”draw” on the display. The movement between segments
+is natural, meaning they should jump from the current position
+only to neighbors, but without passing through ”walls”.
+
+#### Screenshots
+
+![App Screenshot](https://i.imgur.com/jOLjyol.jpg)
+
+#### Video
+
+https://youtube.com/shorts/Y3TY_c_DlzQ
