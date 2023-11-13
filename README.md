@@ -53,3 +53,16 @@ only to neighbors, but without passing through ”walls”.
 #### Video
 
 https://youtube.com/shorts/Y3TY_c_DlzQ
+
+## Homework #5
+
+#### Task
+Using the 4 digit 7 segment display and 3 buttons, I've implemented a stopwatch timer that counts in 10ths of a second and has a save lap functionality (similar to most basic stopwatch functionson most phones).
+
+#### Screenshots
+
+![App Screenshot](https://i.imgur.com/QXauNKF.jpg)
+
+#### Video
+
+https://youtube.com/shorts/AXTWvdiRtgw
