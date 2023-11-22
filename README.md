@@ -66,3 +66,16 @@ Using the 4 digit 7 segment display and 3 buttons, I've implemented a stopwatch 
 #### Video
 
 https://youtube.com/shorts/AXTWvdiRtgw
+
+## Homework #6
+
+#### Task
+I've developed a ”Smart Environment Monitor and Logger” using Arduino.  This sys-tem will utilize various sensors to gather environmental data, log this data intoEEPROM, and provide both visual feedback via an RGB LED and user interac-tion through a Serial Menu.  The project focuses on integrating sensor readings,memory management, Serial Communication and the general objective of build-ing a menu.
+
+#### Screenshots
+
+![App Screenshot](https://i.imgur.com/C5ch52p.jpeg)
+
+#### Video
+
+https://www.youtube.com/watch?v=XHK-m3VTY9k&ab_channel=TudorMicu
