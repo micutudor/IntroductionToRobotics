@@ -79,3 +79,20 @@ I've developed a ”Smart Environment Monitor and Logger” using Arduino.  This
 #### Video
 
 https://www.youtube.com/watch?v=XHK-m3VTY9k&ab_channel=TudorMicu
+
+## Homework #7
+
+#### Task
+I've developed a small game on the 8x8 matrix. The game have 3 types
+of elements: player (blinks slowly), bombs/bullets (blinks fast), wall (doesn’t
+blink). I've generated walls on the map (50% - 75% of the map) and then
+you can move around with the player and destroy them. It's in Bomberman
+style.
+
+#### Screenshots
+
+![App Screenshot](https://i.imgur.com/x9NIz4S.jpg)
+
+#### Video
+
+https://youtube.com/shorts/UHZR3WUbABY
