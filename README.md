@@ -91,7 +91,7 @@ style.
 
 #### Screenshots
 
-![App Screenshot](https://i.imgur.com/x9NIz4S.jpg)
+![App Screenshot]()
 
 #### Video
 
