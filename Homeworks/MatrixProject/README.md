@@ -43,3 +43,6 @@ The game ends when all three lives are lost.
 
 ## Screenshot
 ![App Screenshot](https://i.imgur.com/N46NO93.jpg)
+
+## Video
+https://youtu.be/CZILJlo0VhI?si=Da5jPSwNZ7bVjIzW
